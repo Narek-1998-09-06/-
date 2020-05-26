@@ -1,0 +1,782 @@
+# Translation of Themes - Neve in Russian
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-22 15:27:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Description of the theme
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "Neve - сверхбыстрая, легко настраиваемая, многоцелевая тема. Она идеально подходит для блогов, малого бизнеса, стартапов, агентств, фирм, магазинов электронной коммерции (WooCommerce storefront), а также личных сайтов портфолио и большинства типов проектов. Полностью оптимизированная и адаптивная тема с поддержкой AMP, Neve будет загружаться за считанные секунды и идеально адаптироваться на любом устройстве. Хотя она легкая и имеет минималистский дизайн, тема очень расширяема, она имеет очень оптимизированный для SEO код, что приводит к лучшему ранжированию в результатах поиска Google. Neve отлично работает с Gutenberg и самыми популярными разработчиками страниц (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve также готова к WooCommerce, адаптивная, RTL и готова к переводу. Не стоит больше ничего искать. Neve - идеальная для вас тема!"
+
+#. Theme Name of the theme
+msgid "Neve"
+msgstr "Neve"
+
+#: inc/views/pluggable/pagination.php:107
+msgid "next"
+msgstr "следующая"
+
+#: inc/views/pluggable/pagination.php:102
+msgid "previous"
+msgstr "предыдущая"
+
+#: inc/customizer/options/layout_single_post.php:71
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:116
+msgid "%s Settings"
+msgstr "%s настройки"
+
+#: inc/core/admin.php:331
+msgid "Return to your dashboard"
+msgstr "Вернуться в вашу панель управления"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:318
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "%s теперь установлена и готова к использованию. Мы собрали несколько ссылок, чтобы вы начали."
+
+#: inc/core/admin.php:315
+msgid "Congratulations!"
+msgstr "Поздравления!"
+
+#: inc/core/admin.php:337
+msgid "or go to the theme settings"
+msgstr "или зайдите в настройки темы"
+
+#: inc/core/admin.php:326
+msgid "Try one of our ready to use Starter Sites"
+msgstr "Попробуйте один из наших готовых к использованию Стартовых Сайтов"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:102
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#: functions.php:48
+msgid "upgrading PHP to the latest version"
+msgstr "обновление PHP до последней версии"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "Конструктор страниц на всю ширину (Neve)"
+
+#: inc/core/admin.php:350
+msgid "Sites Library"
+msgstr "Библиотека сайтов"
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:22
+msgid "Get started here"
+msgstr "Начнем отсюда"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post? %s."
+msgstr "Готовы опубликовать свою первую запись? %s."
+
+#: inc/views/template_parts.php:230
+msgid "Read More"
+msgstr "Подробнее"
+
+#: inc/customizer/options/layout_single_post.php:70
+#: inc/views/partials/post_meta.php:140
+msgid "Tags"
+msgstr "Метки"
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:178
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: inc/views/partials/comments.php:157
+msgid "Comment awaiting moderation."
+msgstr "Комментарий ожидает модерации."
+
+#: inc/views/partials/comments.php:144
+msgid "Reply"
+msgstr "Ответить"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:129
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/views/partials/comments.php:107 inc/views/partials/comments.php:138
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/views/partials/comments.php:105
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: inc/views/partials/comments.php:82
+msgid "Next"
+msgstr "Далее"
+
+#: inc/views/partials/comments.php:79
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/views/partials/comments.php:74
+msgid "Comments Navigation"
+msgstr "Навигация по комментариям"
+
+#: inc/views/partials/comments.php:57
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: search result
+#: inc/views/page_header.php:73
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: views/navbar.php:26
+msgid "Toggle Navigation"
+msgstr "Показать/Скрыть навигацию"
+
+#: views/navbar.php:22
+msgid "Navigation Menu"
+msgstr "Меню навигации"
+
+#: inc/views/header.php:89 inc/views/layouts/layout_sidebar.php:141
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/customizer/options/typography.php:165
+#: inc/customizer/options/typography.php:296
+msgid "Line Height"
+msgstr "Высота рядка"
+
+#: inc/customizer/options/typography.php:125
+#: inc/customizer/options/typography.php:254
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/customizer/options/typography.php:106
+#: inc/customizer/options/typography.php:209
+msgid "Font Family"
+msgstr "Семейство шрифта"
+
+#: inc/customizer/options/typography.php:78
+msgid "Font Subsets"
+msgstr "Наборы шрифтов"
+
+#: inc/customizer/options/typography.php:42
+msgid "Headings"
+msgstr "Заголовки"
+
+#: inc/customizer/options/typography.php:38
+msgid "General"
+msgstr "Общие"
+
+#: inc/customizer/options/top_bar.php:189
+msgid "Select Top Bar Menu"
+msgstr "Выберите меню верхней панели"
+
+#: inc/customizer/options/top_bar.php:67
+msgid "Enable Top Bar"
+msgstr "Включить верхнюю панель"
+
+#: inc/customizer/options/top_bar.php:48
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: inc/customizer/options/rtl.php:56
+msgid "Single Product Sidebar Layout"
+msgstr "Макет боковой панели товара"
+
+#: inc/customizer/options/rtl.php:52
+msgid "Shop / Archive Sidebar Layout"
+msgstr "Макет боковой панели магазина / архива"
+
+#: inc/customizer/options/main.php:61
+msgid "Typography"
+msgstr "Типография"
+
+#: inc/customizer/options/main.php:57
+msgid "Header"
+msgstr "Верхний колонтитул"
+
+#: inc/customizer/options/layout_single_post.php:84
+msgid "Elements Order"
+msgstr "Порядок элементов"
+
+#: inc/customizer/options/layout_sidebar.php:264
+msgid "Content Width (%)"
+msgstr "Ширина содержимого (%)"
+
+#: inc/customizer/options/layout_sidebar.php:220
+msgid "Sidebar Layout"
+msgstr "Расположение сайдбаров"
+
+#: inc/customizer/options/layout_sidebar.php:161
+msgid "Others"
+msgstr "Другие"
+
+#: inc/customizer/options/layout_sidebar.php:157
+msgid "Single Product"
+msgstr "Единичный товар"
+
+#: inc/customizer/options/layout_sidebar.php:156
+msgid "Shop / Archive"
+msgstr "Магазин / Архив"
+
+#: inc/customizer/options/layout_single_post.php:42
+#: inc/customizer/options/layout_sidebar.php:149
+msgid "Single Post"
+msgstr "Одиночная запись"
+
+#: inc/customizer/options/layout_sidebar.php:105
+msgid "Enable Advanced Options"
+msgstr "Включить расширенные настройки"
+
+#: inc/customizer/options/layout_sidebar.php:81
+msgid "Sitewide Content Width (%)"
+msgstr "Ширина содержимого всего сайта (%)"
+
+#: inc/customizer/options/layout_sidebar.php:62
+msgid "Sitewide Sidebar Layout"
+msgstr "Макет боковой панели всего сайта"
+
+#: inc/customizer/options/layout_navigation.php:100
+msgid "Last Item in Menu"
+msgstr "Последний элемент в меню"
+
+#: inc/customizer/options/layout_navigation.php:87
+msgid "Search & Cart"
+msgstr "Поиск и корзина"
+
+#: inc/customizer/options/layout_navigation.php:82
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer/options/layout_navigation.php:66
+msgid "Navigation Layout"
+msgstr "Макет навигации"
+
+#: inc/customizer/options/layout_navigation.php:46
+msgid "Primary Navigation"
+msgstr "Основное меню"
+
+#: inc/customizer/options/layout_footer.php:187
+msgid "Section Content"
+msgstr ""
+"Содержание\n"
+" \n"
+"раздела"
+
+#. translators: %1$s is Theme Name (Neve), %2$s is WordPress
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: inc/customizer/options/layout_footer.php:178 inc/views/footer.php:71
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Работает на %2$s"
+
+#: inc/customizer/options/layout_footer.php:141
+msgid "Footer  Menu"
+msgstr "Меню подвала"
+
+#: inc/customizer/options/layout_footer.php:140
+msgid "Text"
+msgstr "Текст"
+
+#: inc/customizer/options/layout_footer.php:139
+#: inc/customizer/options/layout_navigation.php:81
+msgid "None"
+msgstr "Ничего"
+
+#: inc/customizer/options/layout_footer.php:137
+msgid "Content Type"
+msgstr "Тип содержимого"
+
+#: inc/customizer/options/layout_footer.php:107
+msgid "Widget Columns"
+msgstr "Колонки виджетов"
+
+#: inc/customizer/options/layout_footer.php:74
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: inc/customizer/options/top_bar.php:123
+#: inc/customizer/options/layout_footer.php:71
+#: inc/customizer/options/layout_single_post.php:69
+msgid "Content"
+msgstr "Текст записи"
+
+#: inc/customizer/options/layout_footer.php:48
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: inc/customizer/options/layout_container.php:120
+msgid "Single Product Container Style"
+msgstr "Стиль контейнера отдельного товара"
+
+#: inc/customizer/options/layout_container.php:116
+msgid "Shop / Archive Container Style"
+msgstr "Стиль контейнера магазина / архива"
+
+#: inc/customizer/options/layout_container.php:106
+msgid "Single Post Container Style"
+msgstr "Стиль контейнера отдельной записи"
+
+#: inc/customizer/options/layout_container.php:102
+msgid "Blog / Archive Container Style"
+msgstr "Стиль контейнера блога / архива"
+
+#: inc/customizer/options/layout_container.php:98
+msgid "Default Container Style"
+msgstr "Стиль контейнера по-умолчанию"
+
+#: inc/customizer/options/layout_container.php:62
+msgid "Container width (px)"
+msgstr "Ширина контейнера (px)"
+
+#: inc/customizer/options/layout_blog.php:272
+msgid "Meta Order"
+msgstr "Порядок мета данных"
+
+#: inc/customizer/options/layout_single_post.php:72
+#: inc/customizer/options/layout_blog.php:261
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/customizer/options/layout_blog.php:260
+msgid "Date"
+msgstr "Дата"
+
+#: inc/customizer/options/layout_blog.php:259
+msgid "Category"
+msgstr "Категория"
+
+#: inc/customizer/options/layout_blog.php:258
+msgid "Author"
+msgstr "Автор"
+
+#: inc/customizer/options/layout_blog.php:235
+msgid "Post Content Order"
+msgstr "Порядок содержимого записей"
+
+#: inc/customizer/options/layout_blog.php:224
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/customizer/options/layout_single_post.php:67
+#: inc/customizer/options/layout_blog.php:223
+msgid "Title & Meta"
+msgstr "Заголовок и Мета"
+
+#: inc/customizer/options/layout_single_post.php:68
+#: inc/customizer/options/layout_blog.php:222
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: inc/customizer/options/layout_blog.php:172
+msgid "Infinite Scroll"
+msgstr "Бесконечная прокрутка"
+
+#: inc/customizer/options/layout_blog.php:171
+msgid "Number"
+msgstr "Число"
+
+#: inc/customizer/options/layout_blog.php:166
+msgid "Post Pagination"
+msgstr "Пагинация записи"
+
+#: inc/customizer/options/layout_blog.php:138
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+#: inc/customizer/options/layout_blog.php:118
+msgid "Enable Masonry"
+msgstr "Включить плитку"
+
+#: inc/customizer/options/layout_blog.php:99
+msgid "4 Columns"
+msgstr "4 колонки"
+
+#: inc/customizer/options/layout_blog.php:98
+msgid "3 Columns"
+msgstr "3 колонки"
+
+#: inc/customizer/options/layout_blog.php:97
+msgid "2 Columns"
+msgstr "2 колонки"
+
+#: inc/customizer/options/layout_blog.php:96
+msgid "1 Column"
+msgstr "1 колонка"
+
+#: inc/customizer/options/layout_blog.php:94
+msgid "Grid Layout"
+msgstr "Сетчатый макет"
+
+#: inc/customizer/options/top_bar.php:90
+#: inc/customizer/options/layout_blog.php:65 inc/customizer/options/main.php:53
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer/options/layout_blog.php:65
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer/options/layout_sidebar.php:148
+#: inc/customizer/options/layout_blog.php:46
+msgid "Blog / Archive"
+msgstr "Блог / Архив"
+
+#: inc/customizer/options/colors_background.php:82
+msgid "Primary Menu Items Hover Color"
+msgstr "Цвет при наведении на элементы основоного меню"
+
+#: inc/customizer/options/colors_background.php:77
+msgid "Primary Menu Items Color"
+msgstr "Цвет элементов основоного меню"
+
+#: inc/customizer/options/colors_background.php:57
+msgid "Primary Button Color"
+msgstr "Цвет главной кнопки"
+
+#: inc/customizer/options/colors_background.php:43
+msgid "Colors & Background"
+msgstr "Цвета и фон"
+
+#: inc/customizer/controls/font_selector.php:73
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: inc/customizer/controls/font_selector.php:72
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: inc/customizer/controls/font_selector.php:70
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer/controls/font_selector.php:64
+msgctxt "label"
+msgid "Search"
+msgstr "Найти"
+
+#: inc/core/front_end.php:569
+msgid "Footer Four"
+msgstr "Подвал четыре"
+
+#: inc/core/front_end.php:568
+msgid "Footer Three"
+msgstr "Подвал Три"
+
+#: inc/core/front_end.php:567
+msgid "Footer Two"
+msgstr "Подвал Два"
+
+#: inc/core/front_end.php:566
+msgid "Footer One"
+msgstr "Подвал Один"
+
+#: inc/core/front_end.php:560
+msgid "Shop Sidebar"
+msgstr "Боковая панель магазина"
+
+#: inc/customizer/options/colors_background.php:72 inc/core/front_end.php:266
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer/options/colors_background.php:67 inc/core/front_end.php:262
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: inc/customizer/options/colors_background.php:62 inc/core/front_end.php:258
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/core/front_end.php:254
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: inc/core/front_end.php:245
+msgid "White"
+msgstr "Белый"
+
+#: inc/core/front_end.php:236
+msgid "Black"
+msgstr "Чёрный"
+
+#. translators: %s - theme name
+#: inc/core/front_end.php:194
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "С %s, вы можете выбрать из нескольких уникальных демонстраций, специально разработанных для вас, которые можно установить одним щелчком мыши. Вам просто нужно выбрать своего фаворита, и мы позаботимся обо всем остальном."
+
+#: inc/core/front_end.php:192
+msgid "Ready to use pre-built websites with 1-click installation"
+msgstr "Готовые к использованию предварительно созданные веб-сайты с установкой за 1 клик"
+
+#: inc/core/front_end.php:175 inc/core/front_end.php:185
+msgid "Hi! We've noticed you were using Zelle before. To make your transition easier, we can help you keep the same beautiful homepage you had before, by converting it into an Elementor template. This option will also import your homepage content."
+msgstr "Привет! Мы заметили, что вы раньше использовали Zelle. Чтобы упростить переход, мы можем помочь вам сохранить ту же самую красивую домашнюю страницу, что и раньше, путем преобразования ее в шаблон Elementor. Этот параметр также импортирует содержимое вашей домашней страницы."
+
+#: inc/core/front_end.php:174 inc/core/front_end.php:184
+msgid "Want to keep using Zelle's homepage?"
+msgstr "Хотите продолжать использовать домашнюю страницу Zelle?"
+
+#: inc/core/front_end.php:72
+msgid "Top Bar Menu"
+msgstr "Меню верхней панели"
+
+#: inc/core/front_end.php:71
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: inc/views/header.php:206 inc/core/front_end.php:70
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/customizer/options/layout_sidebar.php:43 inc/core/admin.php:240
+msgid "Content / Sidebar"
+msgstr "Содержимое / Боковая панель"
+
+#: inc/core/admin.php:235
+msgid "Footer Options"
+msgstr "Настройки нижнего блока"
+
+#: inc/core/admin.php:230
+msgid "Blog Layouts"
+msgstr "Макеты блога"
+
+#: inc/core/admin.php:225
+msgid "Header Options"
+msgstr "Настройки заголовка"
+
+#: inc/core/admin.php:220
+msgid "Layout Options"
+msgstr "Настройки Макета"
+
+#: inc/core/admin.php:215
+msgid "Customize Fonts"
+msgstr "Настройка шрифтов"
+
+#: inc/core/admin.php:210
+msgid "Set Colors"
+msgstr "Установить цвет"
+
+#: inc/core/admin.php:205
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: inc/core/admin.php:172
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "В документации ниже вы найдете описание, как создать великолепную лендинг-страницу с помощью drag-and-drop конструктора конструктора."
+
+#: inc/core/admin.php:170
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Создайте лендинг с помощью drag-and-drop конструктора"
+
+#: inc/core/admin.php:162
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Если вы обнаружили, что ваш сайт стал очень медленным, вам стоит взглянуть на документацию ниже. Там вы можете найти ответы на самые частые вопросы и возможные варианты решения некоторых проблем."
+
+#: inc/core/admin.php:160
+msgid "Speed up your site"
+msgstr "Ускорьте ваш сайт"
+
+#: inc/core/admin.php:154 inc/core/admin.php:164 inc/core/admin.php:174
+msgid "View how to do this"
+msgstr "Посмотрите как это сделать"
+
+#: inc/core/admin.php:152
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Если вы хотите сделать какие-то изменения в файлах темы, это лучше всего сделать создав дочернюю тему. В противном случае ваши изменения будут перезаписаны после обновления темы. Как создать дочернюю тему читайте ниже."
+
+#: inc/core/admin.php:150
+msgid "Create a child theme"
+msgstr "Создать дочернюю тему"
+
+#: inc/core/admin.php:141
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Хотите быть в курсе последних изменений темы? Обратите внимание на список изменений ниже, чтобы иметь представление о последних исправлениях и новых функциях."
+
+#: inc/core/admin.php:140 inc/core/admin.php:143 inc/core/admin.php:183
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: inc/core/admin.php:132 inc/core/admin.php:363
+msgid "Read full documentation"
+msgstr "Прочитать полную документацию"
+
+#: inc/core/admin.php:117 inc/core/admin.php:121
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: inc/core/admin.php:113 inc/core/admin.php:128 inc/core/admin.php:359
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/core/admin.php:97
+msgid "Useful Plugins"
+msgstr "Полезные плагины"
+
+#: inc/core/admin.php:90
+msgid "Links to Customizer Settings"
+msgstr "Ссылки на настройки Customizer-а"
+
+#: inc/core/admin.php:84
+msgid "See demos"
+msgstr "Посмотрите демо"
+
+#: inc/core/admin.php:80
+msgid "Recommended actions"
+msgstr "Рекомендованные действия"
+
+#: inc/core/admin.php:77
+msgid "Getting Started"
+msgstr "Приступаем к работе"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:70
+msgid "Submit a review"
+msgstr "Отправьте отзыв"
+
+#: inc/core/admin.php:67
+msgid "Leave us a review"
+msgstr "Оставьте отзыв про нас"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:63
+msgid "Join our Facebook Group"
+msgstr "Присоедениться к группе в Facebook"
+
+#: inc/compatibility/woocommerce.php:437
+#: inc/customizer/options/layout_navigation.php:86 inc/views/header.php:122
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/compatibility/woocommerce.php:238
+msgid "Filter"
+msgstr "Фильтр"
+
+#: inc/admin/plugin_install/main.php:174
+msgid "Activating "
+msgstr "Активация"
+
+#: inc/admin/plugin_install/main.php:133
+msgid "Jetpack Portfolio"
+msgstr "Портфолио Jetpack"
+
+#: inc/admin/plugin_install/main.php:128
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: inc/admin/plugin_install/main.php:113 inc/admin/plugin_install/main.php:133
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/admin/plugin_install/main.php:109
+msgid "Install and activate"
+msgstr "Установить и активировать"
+
+#: inc/compatibility/gutenberg.php:210 inc/admin/metabox/main.php:143
+#: inc/core/front_end.php:559
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: inc/admin/metabox/main.php:141
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: inc/admin/metabox/main.php:140
+msgid "Right Sidebar"
+msgstr "Правая колонка"
+
+#: inc/admin/metabox/main.php:139
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: inc/customizer/options/layout_container.php:43
+#: inc/admin/metabox/main.php:127
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer/options/layout_container.php:142
+#: inc/admin/metabox/main.php:125
+msgid "Full Width"
+msgstr "Вся ширина"
+
+#: inc/customizer/options/layout_container.php:141
+#: inc/admin/metabox/main.php:124
+msgid "Contained"
+msgstr "Ограниченный"
+
+#: inc/admin/metabox/main.php:123 inc/admin/metabox/main.php:138
+msgid "Customizer Setting"
+msgstr "Настройки настройщика"
+
+#: inc/admin/metabox/main.php:82
+msgid "Disable Footer"
+msgstr "Отключить подвал"
+
+#: inc/admin/metabox/main.php:76
+msgid "Disable Featured Image"
+msgstr "Отключить изображение записи"
+
+#: inc/admin/metabox/main.php:70
+msgid "Disable Title"
+msgstr "Отключить заголовок"
+
+#: inc/admin/metabox/main.php:65
+msgid "Disable Header"
+msgstr "Отключить верхний колонтитул"
+
+#: inc/admin/metabox/main.php:64
+msgid "Components"
+msgstr "Компоненты"
+
+#: inc/admin/metabox/main.php:37
+msgid "Enable Individual Content Width"
+msgstr "Включить индивидуальную ширину содержимого"
+
+#: inc/admin/metabox/main.php:36
+msgid "Content Width"
+msgstr "Ширина содержимого"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:44
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %s. Neve's minimal requirement is PHP 5.4.0."
+msgstr "Эй! Мы заметили, что вы используете устаревшую версию PHP, которая больше не поддерживается. Чтобы убедиться, что ваш сайт быстрый и защищенный, %s. Минимальное требование Neve - PHP 5.4.0."
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"

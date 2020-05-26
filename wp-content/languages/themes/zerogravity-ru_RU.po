@@ -1,0 +1,612 @@
+# Translation of Themes - ZeroGravity in Russian
+# This file is distributed under the same license as the Themes - ZeroGravity package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-25 15:40:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - ZeroGravity\n"
+
+#. Theme Name of the plugin/theme
+msgid "ZeroGravity"
+msgstr "ZeroGravity"
+
+#: inc/zg-lite-guide.php:144
+msgid "Review ZeroGravity"
+msgstr "Оцените ZeroGravity"
+
+#: inc/zg-lite-guide.php:140
+msgid "Rating and Review"
+msgstr "Рейтинг и Отзыв"
+
+#: inc/zg-lite-customizer.php:114
+msgid "ZG: Color and Sidebar"
+msgstr "ZG: Цвета и боковая панель"
+
+#: inc/zg-lite-customizer.php:154
+msgid "Apply to the background color of the selected text."
+msgstr "Применить цвет для фона выделенного текста"
+
+#: inc/zg-lite-customizer.php:236
+msgid "Show full posts on homepage."
+msgstr "Показать полный текст записи на главной странице"
+
+#: inc/zg-lite-guide.php:171
+msgid "Features"
+msgstr "Возможности темы"
+
+#: inc/zg-lite-guide.php:165
+msgid "Compare with Lite Version"
+msgstr "Сравнение с Lite-версией"
+
+#: inc/zg-lite-guide.php:164
+msgid "Buy"
+msgstr "Купить "
+
+#: inc/zg-lite-guide.php:163
+msgid "Live Demo"
+msgstr "Демонстрация"
+
+#: inc/zg-lite-guide.php:155
+msgid "With <strong>ZeroGravity Pro</strong> you can set up your blog with everything you need in minutes."
+msgstr "С <strong>ZeroGravity Pro</strong> Вы можете настроить на своём блоге все, что нужно в течение нескольких минут."
+
+#: inc/zg-lite-guide.php:180
+msgid "Show extract or whole post on homepage and archive pages."
+msgstr "Показать отрывок или весь пост на главной странице и страницах архива."
+
+#: inc/zg-lite-customizer.php:134
+msgid "Purple"
+msgstr "Пурпурный"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Шаблон без боковой колонки"
+
+#: tag.php:15
+msgid "Tag Archives: %s"
+msgstr "Архив метки: %s"
+
+#: search.php:36
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: template-parts/related-posts.php:28
+msgid "Related posts"
+msgstr "Читайте также"
+
+#: template-parts/menu-movil.php:13
+msgid "Search..."
+msgstr "Поиск…"
+
+#: searchform.php:3 searchform.php:5 template-parts/menu-movil.php:12
+#: template-parts/menu-movil.php:14 template-parts/searchform-toggle.php:3
+#: template-parts/searchform-toggle.php:5
+msgid "Search"
+msgstr "Поиск"
+
+#: index.php:41
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%s\">Начните отсюда</a>."
+
+#: index.php:37
+msgid "No posts to display"
+msgstr "Нет записей для отображения"
+
+#: inc/zg-lite-guide.php:198
+msgid "Integrated Spanish and English"
+msgstr "Встроенный испанский и английский языки"
+
+#: inc/zg-lite-guide.php:197
+msgid "Translation Ready (.po file integrated)"
+msgstr "Готова к переводу (.po файл интегрирован)"
+
+#: inc/zg-lite-guide.php:196
+msgid "AddThis ready, just paste the code"
+msgstr "Поддержка AddThis. Просто вставьте код."
+
+#: inc/zg-lite-guide.php:195
+msgid "Google Analytics ready, just paste the code"
+msgstr "Поддержка Google Analytics. Просто вставьте код. "
+
+#: inc/zg-lite-guide.php:194
+msgid "Easily apply ZeroGravity style to bbPress, just check the option."
+msgstr "Легко применять ZeroGravity стили к bbPress, просто отметьте опцию."
+
+#: inc/zg-lite-guide.php:193
+msgid "Google Plus Authorship Integration"
+msgstr "Интегрировано Google Plus Authorship"
+
+#: inc/zg-lite-guide.php:192
+msgid "Social networks in user profile"
+msgstr "Социальные сети в профиле пользователя"
+
+#: inc/zg-lite-guide.php:191
+msgid "Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+msgstr "Пользовательские шорткоды (кнопки, сообщения, аккордеон и табы)"
+
+#: inc/zg-lite-guide.php:190
+msgid "Custom pagination"
+msgstr "Пользовательская пагинация"
+
+#: inc/zg-lite-guide.php:189
+msgid "Breadcrumb navigation"
+msgstr "Хлебные крошки"
+
+#: inc/zg-lite-guide.php:188
+msgid "Show/Hide pages title"
+msgstr "Показать/скрыть заголовки страниц"
+
+#: inc/zg-lite-guide.php:187
+msgid "Show/Hide post meta (author, date, comments number)"
+msgstr "Показать/скрыть мета-данные записей (автор, дата, количество комментариев)"
+
+#: inc/zg-lite-guide.php:186
+msgid "Related posts with thumbnails"
+msgstr "Похожие сообщения с миниатюрами"
+
+#: inc/zg-lite-guide.php:185
+msgid "Custom widgets (Recent posts with square thumbnails or rounded, Popular posts with square thumbnails or rounded, Recent comments with square avatars or rounded, Email subscription)"
+msgstr "Пользовательские виджеты (Последние записи с квадратными или округлыми миниатюрами, популярные записи  с квадратными или округлыми миниатюрами, последние комментарии  с квадратными или округлыми миниатюрами аватарами, подписка на электронную почту)"
+
+#: inc/zg-lite-guide.php:184
+msgid "Available 15 differents Google fonts"
+msgstr "Доступно 15 шрифтов Google"
+
+#: inc/zg-lite-guide.php:182
+msgid "Easily add your Favicon"
+msgstr "Простое добавление favicon"
+
+#: inc/zg-lite-guide.php:181
+msgid "7 widgets areas to add AdSense code or anything else"
+msgstr "7 областей для виджетов, чтобы добавить код AdSense или что-нибудь еще"
+
+#: inc/zg-lite-guide.php:179
+msgid "Sidebar left or right"
+msgstr "Боковая панель слева или справа"
+
+#: inc/zg-lite-guide.php:177
+msgid "Unlimited theme colors"
+msgstr "Неограниченное количество цветовых тем"
+
+#: inc/zg-lite-guide.php:176
+msgid "Customizable maximum width"
+msgstr "Настраиваемая максимальная ширина"
+
+#: inc/zg-lite-guide.php:175
+msgid "Forum support"
+msgstr "Форум поддержки"
+
+#: inc/zg-lite-guide.php:132
+msgid "After to check \"Header image is a logo\"."
+msgstr "\"Изображением шапки является логотип\" включено"
+
+#: inc/zg-lite-guide.php:127
+msgid "Before to check \"Header image is a logo\"."
+msgstr "\"Изображением шапки является логотип\" отключено"
+
+#: inc/zg-lite-guide.php:120
+msgid "if you choose a logo, instead full image for the header, go to the section \"Logo in the header\" and check the option \"Header image is a logo\". You can too center the logo."
+msgstr "Если вы выбираете логотип, а не полное изображение для заголовка, перейдите в раздел \"Логотип в шапке\" и отметьте опцию \"Изображением шапки является логотип\". Вы можете также разместить логотип по центру."
+
+#: inc/zg-lite-guide.php:117
+msgid "Logo in the header"
+msgstr "Логотип в шапке"
+
+#: inc/zg-lite-guide.php:115
+msgid "Go to \"Appearance >> Customize >> ZeroGravity Options\" and set the options in the sections \"ZG: Color, Favicon and Sidebar\", \"ZG: Top bar and social icons\", \"ZG: Logo in the header\", \"ZG: Posts and footer text\", \"ZG: Fonts\"."
+msgstr "Перейдите в раздел \"Внешний вид >> Настройка >> ZeroGravity\" и задайте параметры в разделах \"ZG: Цвет, Favicon и боковая панель\", \"ZG: Верхняя панель и социальные иконки\", \"ZG: Логотип в заголовке\", \"ZG : Записи и текст нижнего колонтитула \",\" ZG: Шрифты \"."
+
+#: inc/zg-lite-guide.php:114
+msgid "Customize ZeroGravity"
+msgstr "Настройка ZeroGravity"
+
+#: inc/zg-lite-guide.php:112
+msgid "If ZeroGravity is not the first theme you use, you must regenerate the thumbnails of image with some free plugin as"
+msgstr "Если ZeroGravity не первая используемая тема на вашем сайте, то вы должны заново создать эскизы изображений с помощью плагинов, подобных"
+
+#: inc/zg-lite-guide.php:110
+msgid "For images appear on the homepage, you must set the featured image of the posts."
+msgstr "Для отображения изображений на главной странице, вы должны установить миниатюры для записей."
+
+#: inc/zg-lite-guide.php:109
+msgid "Important: thumbnails"
+msgstr "Важно: миниатюры"
+
+#: inc/zg-lite-guide.php:107
+msgid "ZeroGravity Quick Start Guide"
+msgstr "Краткое руководство к ZeroGravity"
+
+#: inc/zg-lite-guide.php:103
+msgid "Thank you for choosing ZeroGravity"
+msgstr "Благодарим вас за выбор ZeroGravity"
+
+#: inc/zg-lite-guide.php:7
+msgid "ZeroGravity Guide"
+msgstr "Руководство к ZeroGravity "
+
+#: inc/zg-lite-customizer.php:388
+msgid "RSS URL"
+msgstr "Ссылка на RSS-поток"
+
+#: inc/zg-lite-customizer.php:381
+msgid "Pinterest URL"
+msgstr "Ссылка Pinterest"
+
+#: inc/zg-lite-customizer.php:374
+msgid "Instagram URL"
+msgstr "Ссылка Instagram"
+
+#: inc/zg-lite-customizer.php:367
+msgid "YouTube URL"
+msgstr "Ссылка Youtube"
+
+#: inc/zg-lite-customizer.php:360
+msgid "LinkedIn URL"
+msgstr "Ссылка LinkedIn"
+
+#: inc/zg-lite-customizer.php:353
+msgid "Google Plus URL"
+msgstr "Ссылка Google Plus"
+
+#: inc/zg-lite-customizer.php:346
+msgid "Facebook URL"
+msgstr "Ссылка Facebook"
+
+#: inc/zg-lite-customizer.php:339
+msgid "Twitter URL"
+msgstr "Ссылка Twitter"
+
+#: inc/zg-lite-customizer.php:324
+msgid "Display blog title in top bar"
+msgstr "Показать заголовок блога в верхней панели"
+
+#: inc/zg-lite-customizer.php:316
+msgid "(Leave blank text boxes to not display icons)"
+msgstr "(Чтобы не отображать иконки - оставьте пустым текстовые поля)"
+
+#: inc/zg-lite-customizer.php:315
+msgid "ZG: Top bar and social icons"
+msgstr "ZG: Верхняя панель и социальные иконки"
+
+#: inc/zg-lite-customizer.php:305
+msgid "(ZG) Center logo (Just if \"Header image is a logo\" is checked)"
+msgstr "(ZG) логотип по центру (если включено \"Изображением шапки является логотип\" )"
+
+#: inc/zg-lite-customizer.php:297
+msgid "(ZG) Header image is a logo"
+msgstr "(ZG) Изображением шапки является логотип"
+
+#: inc/zg-lite-customizer.php:290
+msgid "If you choose a logo instead of full image for the header, check the option \"Header image is a logo\" to apply margins."
+msgstr "Если вы выбрали логотип вместо полного изображения для заголовка, отметьте опцию \"Изображением шапки является логотип\"."
+
+#: inc/zg-lite-customizer.php:288
+msgid "ZG: Logo in the header"
+msgstr "ZG: Логотип в шапке"
+
+#: inc/zg-lite-customizer.php:271
+msgid "Footer text left"
+msgstr "Текст слева в нижнем колонтитуле"
+
+#: inc/zg-lite-customizer.php:264
+msgid "Display 'Back to top' button"
+msgstr "Отображать кнопку \"Наверх\""
+
+#: inc/zg-lite-customizer.php:257
+msgid "Display related posts at the end of entries"
+msgstr "Показать похожие сообщения в конце записи"
+
+#: inc/zg-lite-customizer.php:250
+msgid "Entry text justified"
+msgstr "Выровнять текст по ширине"
+
+#: inc/zg-lite-customizer.php:243
+msgid "Excerpt's thumbnail image rounded"
+msgstr "Округлить миниатюру в отрывке"
+
+#: inc/zg-lite-customizer.php:229
+msgid "ZG: Posts and footer text"
+msgstr "ZG: Записи и текст нижнего колонтитула"
+
+#: inc/zg-lite-customizer.php:200
+msgid "Select font"
+msgstr "Выберите шрифт"
+
+#: inc/zg-lite-customizer.php:191
+msgid "ZG: Fonts"
+msgstr "ZG: Шрифты"
+
+#: inc/zg-lite-customizer.php:180
+msgid "Right"
+msgstr "Справа"
+
+#: inc/zg-lite-customizer.php:179
+msgid "Left"
+msgstr "Слева"
+
+#: inc/zg-lite-customizer.php:174
+msgid "Select sidebar position"
+msgstr "Позиция боковой панели"
+
+#: inc/zg-lite-customizer.php:163
+msgid "White header"
+msgstr "Белая шапка"
+
+#: inc/zg-lite-customizer.php:146
+msgid "Apply to entry title in excerpts"
+msgstr "Применить к названиям в ленте"
+
+#: inc/zg-lite-customizer.php:136
+msgid "Yellow"
+msgstr "Жёлтый"
+
+#: inc/zg-lite-customizer.php:135
+msgid "Red"
+msgstr "Красный"
+
+#: inc/zg-lite-customizer.php:133
+msgid "Pink"
+msgstr "Розовый"
+
+#: inc/zg-lite-customizer.php:132
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: inc/zg-lite-customizer.php:131
+msgid "Green"
+msgstr "Зелёный"
+
+#: inc/zg-lite-customizer.php:129
+msgid "Blue"
+msgstr "Синий"
+
+#: inc/zg-lite-customizer.php:124
+msgid "Select theme color"
+msgstr "Выберите цветовую тему"
+
+#: inc/zg-lite-customizer.php:104 inc/zg-lite-guide.php:115
+msgid "ZeroGravity Options"
+msgstr "Параметры ZeroGravity"
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "Следующее &rarr;"
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущее"
+
+#: image.php:22
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Опубликовано </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> с разрешением <a href=\"%3$s\" title=\"Ссылка на полноразмерное изображение\">%4$s &times; %5$s</a> в галерее <a href=\"%6$s\" title=\"Вернуться: %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:64
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: template-parts/top-bar.php:7
+msgid "MENU"
+msgstr "Меню"
+
+#: functions.php:433
+msgid "Read more"
+msgstr "Читать далее"
+
+#: functions.php:350
+msgid "Reply"
+msgstr "Ответить"
+
+#: functions.php:341
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#. translators: 1: date, 2: time
+#: functions.php:335
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:329
+msgid "Post author"
+msgstr "Автор записи"
+
+#: functions.php:314
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: functions.php:314
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:288
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующие записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:287
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: functions.php:285
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: functions.php:262
+msgid "Appears at the end of entries content"
+msgstr "Выводится под текстом записи"
+
+#: functions.php:261
+msgid "ZeroGravity: End of entries"
+msgstr "ZeroGravity: Под записью"
+
+#: functions.php:252
+msgid "Appears below entries title"
+msgstr "Выводится под заголовком записи"
+
+#: functions.php:251
+msgid "ZeroGravity: Below entries title"
+msgstr "ZeroGravity: под заголовком записи"
+
+#: functions.php:243
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr "Появляется в записях и страницах, кроме шаблона страницы на полную ширину (Full-width Page Template)"
+
+#: functions.php:241
+msgid "Main Sidebar"
+msgstr "Главная боковая колонка"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:103
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "cyrillic"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:97
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:17
+msgid "Semantic Personal Publishing Platform"
+msgstr "Современная персональная платформа для публикаций"
+
+#: footer.php:17
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:17
+msgid "Powered by"
+msgstr "создано с помощью"
+
+#: footer.php:16
+msgid "by"
+msgstr "Автор:"
+
+#: footer.php:14 inc/zg-lite-customizer.php:275 inc/zg-lite-customizer.php:278
+msgid "Footer text center"
+msgstr "Текст по центру в нижнем колонтитуле"
+
+#: footer.php:13 inc/zg-lite-customizer.php:268
+msgid "Copyright 2015"
+msgstr "Copyright"
+
+#: content.php:98
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Посмотреть все записи автора %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:54
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:23 content.php:77 functions.php:346 image.php:33
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-page.php:20 content.php:55 image.php:98
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-none.php:15 index.php:52
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Извините, результатов не найдено. Попробуйте найти нужную запись с помощью поиска."
+
+#: content-none.php:11 index.php:48 search.php:32
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:35
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:24
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#: category.php:15
+msgid "Category Archives: %s"
+msgstr "Архив рубрики: %s"
+
+#: author.php:41 content.php:94
+msgid "About %s"
+msgstr "Об авторе %s"
+
+#: author.php:20
+msgid "Author Archives: %s"
+msgstr "Архив автора: %s"
+
+#: archive.php:23
+msgid "Archives"
+msgstr "Архивы"
+
+#: archive.php:21
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:21
+msgid "Yearly Archives: %s"
+msgstr "Архив за год: %s"
+
+#: archive.php:19
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:19
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц: %s"
+
+#: archive.php:17
+msgid "Daily Archives: %s"
+msgstr "Архив за день: %s"
+
+#: 404.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Неприятная новость"
+
+#. Author URI of the plugin/theme
+msgid "http://galussothemes.com"
+msgstr "http://galussothemes.com"
+
+#. Author of the plugin/theme
+msgid "GalussoThemes"
+msgstr "GalussoThemes"
+
+#. Theme URI of the plugin/theme
+msgid "http://galussothemes.com/wordpress-themes/zerogravity"
+msgstr "http://galussothemes.com/wordpress-themes/zerogravity"

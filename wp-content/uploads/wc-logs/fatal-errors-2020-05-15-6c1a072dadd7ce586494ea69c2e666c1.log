@@ -1,0 +1,58 @@
+2020-05-15T15:31:38+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php:278
+Stack trace:
+#0 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(938): WC_Ameria_Payment_Gateway_Pretty->process_payment(1213)
+#1 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1141): WC_Checkout->process_order_payment(1213, 'WC_Ameria_Payme...')
+#2 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#3 /home/bebestam/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#4 /home/bebestam/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/bebestam/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action( in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php on line 278
+
+2020-05-15T15:31:57+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php:278
+Stack trace:
+#0 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(938): WC_Ameria_Payment_Gateway_Pretty->process_payment(1213)
+#1 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1141): WC_Checkout->process_order_payment(1213, 'WC_Ameria_Payme...')
+#2 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#3 /home/bebestam/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#4 /home/bebestam/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/bebestam/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action( in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php on line 278
+
+2020-05-15T15:32:19+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php:278
+Stack trace:
+#0 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(938): WC_Ameria_Payment_Gateway_Pretty->process_payment(1213)
+#1 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1141): WC_Checkout->process_order_payment(1213, 'WC_Ameria_Payme...')
+#2 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#3 /home/bebestam/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#4 /home/bebestam/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/bebestam/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action( in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php on line 278
+
+2020-05-15T15:49:13+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php:278
+Stack trace:
+#0 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(938): WC_Ameria_Payment_Gateway_Pretty->process_payment(1215)
+#1 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1141): WC_Checkout->process_order_payment(1215, 'WC_Ameria_Payme...')
+#2 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#3 /home/bebestam/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#4 /home/bebestam/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/bebestam/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action( in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php on line 278
+
+2020-05-15T17:58:56+00:00 CRITICAL syntax error, unexpected 'woocommerce' (T_STRING), expecting ',' or ')' in /home/bebestam/public_html/wp-content/plugins/woocommerce/templates/checkout/form-login.php on line 26
+
+2020-05-15T17:59:10+00:00 CRITICAL syntax error, unexpected 'woocommerce' (T_STRING), expecting ',' or ')' in /home/bebestam/public_html/wp-content/plugins/woocommerce/templates/checkout/form-login.php on line 26
+
+2020-05-15T17:59:14+00:00 CRITICAL syntax error, unexpected 'woocommerce' (T_STRING), expecting ',' or ')' in /home/bebestam/public_html/wp-content/plugins/woocommerce/templates/checkout/form-login.php on line 26
+
+2020-05-15T18:00:25+00:00 CRITICAL syntax error, unexpected 'woocommerce' (T_STRING), expecting ',' or ')' in /home/bebestam/public_html/wp-content/plugins/woocommerce/templates/checkout/form-login.php on line 26
+
+2020-05-15T18:02:53+00:00 CRITICAL Uncaught Error: Class 'SoapClient' not found in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php:278
+Stack trace:
+#0 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(938): WC_Ameria_Payment_Gateway_Pretty->process_payment(1216)
+#1 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1141): WC_Checkout->process_order_payment(1216, 'WC_Ameria_Payme...')
+#2 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#3 /home/bebestam/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#4 /home/bebestam/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/bebestam/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /home/bebestam/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action( in /home/bebestam/public_html/wp-content/plugins/woocommerce-ameria-payment-gateway-pretty-master/woocommerce-ameria-payment-gateway-pretty.php on line 278
+

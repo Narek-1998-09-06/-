@@ -1,0 +1,4 @@
+[19-Apr-2020 07:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bebestam/public_html/wp-content/themes/spicepress/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bebestam/public_html/wp-content/themes/spicepress/404.php on line 5

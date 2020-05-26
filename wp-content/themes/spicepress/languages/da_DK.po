@@ -1,0 +1,1676 @@
+# <!=Copyright (C) 2018 spicethemes.com
+# This file is distributed under the GNU General Public License v3 or later.=!>
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Johan Schlüter <cantoj@gmail.com>, 2018
+# Mark Thomas Gazel <mark@gazel.dk>, 2018
+# Mikael Køster Andersen <mikael@koesterandersen.dk>, 2018
+# Bo Toft <botoft01@gmail.com>, 2018
+# Jette Drøger <jette@websitterservice.dk>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: SpicePress 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wp-translations.pro/\n"
+"POT-Creation-Date: 2019-11-19 13:18+0530\n"
+"PO-Revision-Date: 2019-11-19 13:18+0530\n"
+"Last-Translator: Jette Drøger <jette@websitterservice.dk>, 2018\n"
+"Language-Team: Danish (Denmark) (https://www.transifex.com/wp-translations/"
+"teams/64435/da_DK/)\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "Oops! Page not found"
+msgstr "Ups! Siden blev ikke fundet"
+
+#: 404.php:14
+msgid "4"
+msgstr "4"
+
+#: 404.php:15
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Vi beklager, men den side, du søger, findes ikke."
+
+#: 404.php:16
+msgid "Go Back"
+msgstr "Gå tilbage"
+
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+#: functions/customizer-notify/spicepress-customizer-notify.php:111
+msgid "Activating"
+msgstr "Aktiverer"
+
+#: admin/inc/class-spicethemes-about-page.php:75
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+#, fuzzy
+#| msgid "Error 404"
+msgid "Error"
+msgstr "Fejl 404 "
+
+#: admin/inc/class-spicethemes-about-page.php:114
+msgid "View Theme Info"
+msgstr "Vis temainformation"
+
+#: admin/inc/class-spicethemes-about-page.php:124
+#, fuzzy, php-format
+#| msgid "%1$s %2$s"
+msgid "About %1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:125
+#, fuzzy, php-format
+#| msgid "Welcome to %1$s - Version %2$s"
+msgid "Welcome to %1$s %2$s"
+msgstr "Velkommen til %1$s - Version %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:142
+#, fuzzy, php-format
+#| msgid ""
+#| "Welcome! Thank you for choosing SpiceThemes SpicePress WordPress theme. "
+#| "To take full advantage of the features this theme has to offer visit our "
+#| "%swelcome page%s."
+msgid ""
+"Welcome! Thank you for choosing SpicePress WordPress theme. To take full "
+"advantage of the features this theme has to offer visit our %swelcome page%s."
+msgstr ""
+"Velkommen! Tak fordi du valgte SpicePress WordPress-temaet. For at få fuldt "
+"udbytte af de funktioner dette tema byder på, så besøg venligst vores "
+"%svelkomstside%s."
+
+#: admin/inc/class-spicethemes-about-page.php:143
+msgid "Get started with SpicePress"
+msgstr "Kom i gang med SpicePress"
+
+#: admin/inc/class-spicethemes-about-page.php:257
+msgid "See changelog below:"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:311
+#: admin/tab-pages/getting-started.php:26
+msgid "Getting Started"
+msgstr "Kom godt i gang"
+
+#: admin/inc/class-spicethemes-about-page.php:316
+#: functions/customizer/customizer_recommended_plugin.php:16
+msgid "Recommended Actions"
+msgstr "Anbefalede handlinger"
+
+#: admin/inc/class-spicethemes-about-page.php:324
+#, fuzzy
+#| msgid "WPML Support"
+msgid "Support"
+msgstr "WPML support"
+
+#: admin/inc/class-spicethemes-about-page.php:331
+#: admin/tab-pages/useful_plugins.php:28 admin/tab-pages/useful_plugins.php:30
+msgid "Changelog"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:336
+#, fuzzy
+#| msgid "Free VS PRO"
+msgid "Free vs. PRO"
+msgstr "Gratis VS PRO"
+
+#: admin/inc/class-spicethemes-about-page.php:417
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:419
+#: admin/inc/include-companion.php:81
+#, fuzzy
+#| msgid "Install and Activate"
+msgid "Install and activate"
+msgstr "Installer og aktiver"
+
+#: admin/inc/class-spicethemes-about-page.php:436
+#, fuzzy, php-format
+#| msgid "Activate"
+msgid "Activate %s now"
+msgstr "Aktiver"
+
+#: admin/inc/class-spicethemes-about-page.php:438
+#: class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr "Aktiver"
+
+#: admin/inc/class-spicethemes-about-page.php:441
+#: class-tgm-plugin-activation.php:2321
+#, fuzzy
+#| msgid "Activate"
+msgid "Active"
+msgstr "Aktiver"
+
+#: admin/inc/class-spicethemes-about-page.php:563
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:565
+msgid ""
+"To access the advance Frontpage sections and other theme features, please "
+"install the SpiceBox plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:569
+#, fuzzy
+#| msgid "Contact Form Support"
+msgid "Contact Form 7"
+msgstr "Kontaktformular support"
+
+#: admin/inc/class-spicethemes-about-page.php:571
+msgid ""
+"To display the contact form on the contact section in homepage, please "
+"install the Contact Form 7 plugin"
+msgstr ""
+
+#: admin/inc/include-companion.php:79
+#, fuzzy
+#| msgid ""
+#| "To take full advantage of all the features this theme has to offer, "
+#| "install and activate the SpiceBox plugin. Go to Customize and install the "
+#| "SpiceBox plugin."
+msgid ""
+"To take advantage of this theme's features in the customizer you need to "
+"install the SpiceBox plugin."
+msgstr ""
+"Hvis du vil have det fulde udbytte af dette temas muligheder, så installer "
+"og aktiver venligst SpikeBox pluginet. Gå til Tilpas og installer SpiceBox-"
+"pluginet."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr ""
+
+#: admin/inc/include-companion.php:96
+msgid ""
+"You have installed the SpiceBox plugin. To take advantage of this theme's "
+"features in the customizer, you need to activate it."
+msgstr ""
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr ""
+
+#: admin/inc/include-companion.php:98
+#, fuzzy
+#| msgid "Activate"
+msgid "Activate now"
+msgstr "Aktiver"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "Funktioner"
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Forsidesektioner"
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Du vil finde en række sektioner på forsiden."
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Page Templates Support"
+msgstr "Sideskabelon support"
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "SpicePress includes various page templates."
+msgstr "SpicePress indeholder forskellige sideskabeloner."
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Layout Options"
+msgstr "Layout muligheder"
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid ""
+"SpicePress supports both a Full-Width and a Boxed layout options. To choose "
+"your preference (and switch between them) go to Appearance > Customize."
+msgstr ""
+"SpicePress understøtter både fuld bredde og et boks layout muligheder. For "
+"at vælge det layout du foretækker (og bytte rundt på dem) så gå til Udseende "
+"> Tilpas."
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Mobile Friendly"
+msgstr "Mobilvenligt"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "Resposivt layout på alle enheder."
+
+#: admin/tab-pages/free_vs_pro.php:30
+msgid "Contact Form Support"
+msgstr "Kontaktformular support"
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid ""
+"This theme supports the Contact Form 7 plugin. Use it to build your contact "
+"form."
+msgstr ""
+"Dette tema understøtter Contact Form 7-pluginet. Brug det til at lave din "
+"kontaktformular."
+
+#: admin/tab-pages/free_vs_pro.php:33
+msgid "RTL Language Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:34
+msgid ""
+"This theme has RTL language support. For languages that start from right to "
+"left like Arabic, Hebrew, etc."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "Mulitple Color Schemes"
+msgstr "Flere farveskemaer"
+
+#: admin/tab-pages/free_vs_pro.php:38
+msgid ""
+"Enjoy any of the 7 preset color schemes, or create your own, without adding "
+"any code."
+msgstr ""
+"Nyd godt af de 7 foruddefinerede farveskemaer, eller lav dine egne uden at "
+"tilføje noget kode."
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Google Map"
+msgstr "Google Maps"
+
+#: admin/tab-pages/free_vs_pro.php:41
+msgid ""
+"Display your Shop and Business location on your website using Google Maps."
+msgstr ""
+"Vis din butik og virksomhedsplacering på dit websted ved at bruge Google "
+"Maps."
+
+#: admin/tab-pages/free_vs_pro.php:43
+msgid "Portfolio"
+msgstr "Portefølje"
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid ""
+"Present your project/portfolio collection with 2 column, 3 column and 4 "
+"column layouts. You can also display your project/portfolio by category."
+msgstr ""
+"Forudindstil din projekt/portefølje samling i et 2 kolonne, 3 kolonne eller "
+"4 kolonne layout. Du kan også vise din projekt/portefølje efter kategori."
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "About Us Page"
+msgstr "Om os side"
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Show team members and custom content added in the WordPress editor."
+msgstr ""
+"Vis dine teammedlemmer og andet tilpasset indhold ved bare at tilføje det i "
+"WordPress-editoren."
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "Services Page"
+msgstr "Tjenester side"
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Show all your services in a single place."
+msgstr "Vis alle dine tjenester på én side."
+
+#: admin/tab-pages/free_vs_pro.php:55
+#, fuzzy
+#| msgid "Testimonial/Review Section"
+msgid "Testimonial / Review Section"
+msgstr "Anbefalinger/Anmeldelse sektion"
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Show user feedback on the Homepage."
+msgstr "Vis brugertilbagemeldinger på Forsiden."
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "Color and Typography Module"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:61
+msgid ""
+"It is a powerful module allows you to adjust the fonts and colors of the "
+"content without adding a single line of css code."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:65
+msgid "WPML Support"
+msgstr "WPML support"
+
+#: admin/tab-pages/free_vs_pro.php:66
+msgid "You can use WPML to make your website multilingual."
+msgstr "Du kan bruge WPML til at gøre dit websted flersproget."
+
+#: admin/tab-pages/free_vs_pro.php:69
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: admin/tab-pages/free_vs_pro.php:70
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Få øjeblikkelig 24/7 support i vores supportforum."
+
+#: admin/tab-pages/free_vs_pro.php:84
+msgid "SpicePress"
+msgstr "SpicePress"
+
+#: admin/tab-pages/free_vs_pro.php:90
+msgid ""
+"Slider [Static Image], Services [3 Services], Portfolio [3 Portfolio], "
+"Testimonial, Latest News"
+msgstr ""
+"En slider [statisk billede], tjenester [tre tjenester], porteføljer [tre "
+"porteføljer], seneste nyheder."
+
+#: admin/tab-pages/free_vs_pro.php:95
+msgid "Business Template and Full-Width Template"
+msgstr "Firmaskabelon og fuld bredde skabelon."
+
+#: admin/tab-pages/free_vs_pro.php:96
+msgid "Wide Layout"
+msgstr "Fuld bredde layout"
+
+#: admin/tab-pages/free_vs_pro.php:110
+msgid "On WordPress.org Support Forum"
+msgstr "I supportforumet hos WordPress.org"
+
+#: admin/tab-pages/free_vs_pro.php:122
+msgid "SpicePress PRO"
+msgstr "SpicePress PRO"
+
+#: admin/tab-pages/free_vs_pro.php:127
+msgid ""
+"Top Header, Slider [Unlimited], Services [Unlimited], Portfolio [Unlimited], "
+"Latest News, Clients, Testimonials, Custom Widgets"
+msgstr ""
+"Et top sidehoved, slidere [ubegrænset], tjenester [ubegrænset], porteføljer "
+"[ubegrænset], seneste nyheder, klienter, anbefalinger, egne widgets"
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid ""
+"About, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, "
+"Page Full Width, Contact Page and much more."
+msgstr ""
+"Om os, Tjenester, Portefølje, Blog højre og venstre sidebarer, Blog fuld "
+"bredde, Side fuld bredde, Kontaktside og meget mere."
+
+#: admin/tab-pages/free_vs_pro.php:130
+msgid "Wide layout & Boxed Layout"
+msgstr "Fuld bredde layout & boks layout"
+
+#: admin/tab-pages/free_vs_pro.php:143
+msgid "Premium Support Forum"
+msgstr "Premium supportforum"
+
+#: admin/tab-pages/free_vs_pro.php:153
+msgid "Get SpicePress PRO Now!"
+msgstr "Få SpicePress PRO nu!"
+
+#: admin/tab-pages/getting-started.php:14
+msgid "About the SpicePress theme"
+msgstr "Om SpicePress temaet"
+
+#: admin/tab-pages/getting-started.php:20
+msgid ""
+"This theme is ideal for creating corporate and business websites. The PRO "
+"version has tons of features: a homepage with many sections where you can "
+"feature unlimited sliders, portfolios, user reviews, latest news, services, "
+"calls to action and much more. Each section in the HomePage template is "
+"carefully designed to fit to all business requirements."
+msgstr ""
+"Dette tema er ideelt til at skabe forretnings- og virksomhedssider. Pro-"
+"versionen har tonsvis af muligheder: En forside med en række sektioner, hvor "
+"du kan vise ubegrænsede slidere, porteføljer, brugeranmeldelser, seneste "
+"nyheder, tjenester, call to action og meget mere. Hver sektion i "
+"forsideskabelonen er designet med omhu for at passe til alle typer "
+"virksomhedsbehov."
+
+#: admin/tab-pages/getting-started.php:22
+msgid ""
+"You can use this theme for any type of activity. SpicePress is compatible "
+"with popular plugins like WPML and Polylang. To help you create an effective "
+"and impactful web presence, SpicePress has predefined versions of many "
+"pages: Contact, Services, Portfolios, About Us and Blog."
+msgstr ""
+"Du kan bruge dette tema til alle typer af aktiviteter. SpicePress er "
+"forenenligt med populære plugins såsom WPML og Polylang. Til at hjælpe dig "
+"til at skabe en effektiv og virkningsfuld web tilstedeværelse har SpicePress "
+"foruddefinerede udgaver af mange sider: En kontaktside, en tjenesterside, "
+"porteføljesider, Om os og en blog. "
+
+#: admin/tab-pages/getting-started.php:30
+msgid ""
+"To take full advantage of all the features this theme has to offer, install "
+"and activate the SpiceBox plugin. Go to Customize and install the SpiceBox "
+"plugin."
+msgstr ""
+"Hvis du vil have det fulde udbytte af dette temas muligheder, så installer "
+"og aktiver venligst SpikeBox pluginet. Gå til Tilpas og installer SpiceBox-"
+"pluginet."
+
+#: admin/tab-pages/getting-started.php:33
+msgid "Go to the Customizer"
+msgstr "Gå til Tilpasseren"
+
+#: admin/tab-pages/getting-started.php:39
+msgid "SpicePress theme"
+msgstr "SpicePress tema"
+
+#: admin/tab-pages/getting-started.php:47
+msgid "Useful Links"
+msgstr "Brugbare links"
+
+#: admin/tab-pages/getting-started.php:54
+msgid "Lite Demo"
+msgstr "Lite demo"
+
+#: admin/tab-pages/getting-started.php:58
+msgid "PRO Demo"
+msgstr "PRO demo"
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Your feedback is valuable to us"
+msgstr "Din tilbagemelding er vigtig for os."
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Premium Theme Support"
+msgstr "Premium temasupport"
+
+#: admin/tab-pages/getting-started.php:82
+msgid "Premium Theme Details"
+msgstr "Premium temadetaljer"
+
+#: admin/tab-pages/useful_plugins.php:12 admin/tab-pages/useful_plugins.php:14
+#, fuzzy
+#| msgid "Contact Form Support"
+msgid "Contact Support"
+msgstr "Kontaktformular support"
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid ""
+"We want to make sure you have the best experience using SpicePress, and that "
+"is why we have gathered all the necessary information here for you. We hope "
+"you will enjoy using SpicePress as much as we enjoy creating great products."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:20
+#, fuzzy
+#| msgid "Designation"
+msgid "Documentation"
+msgstr "Udpegning"
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use SpicePress."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:22
+msgid "Read full documentation"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:29
+msgid ""
+"Want to get the gist on the latest theme changes? Just consult our changelog "
+"below to get a taste of the recent fixes and features implemented."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2276
+#, fuzzy
+#| msgid "Recommended Plugin"
+msgid "Recommended"
+msgstr "Anbefalede plugin"
+
+#: class-tgm-plugin-activation.php:2292
+#, fuzzy
+#| msgid "On WordPress.org Support Forum"
+msgid "WordPress Repository"
+msgstr "I supportforumet hos WordPress.org"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2319
+#, fuzzy
+#| msgid "Install and Activate"
+msgid "Installed But Not Activated"
+msgstr "Installer og aktiver"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update Not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2342
+#, fuzzy, php-format
+#| msgid "%1$s %2$s"
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$s"
+
+#: class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Updates Available <span class=\"count\">(%s)</span>"
+msgid_plural "Updates Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2554
+#: functions/customizer-repeater/class/customizer-repeater-control.php:585
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2614
+#, fuzzy, php-format
+#| msgid "Activate"
+msgid "Activate %2$s"
+msgstr "Aktiver"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+#, fuzzy
+#| msgid "Premium Theme Details"
+msgid "Hide Details"
+msgstr "Premium temadetaljer"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:6
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dette indlæg er beskyttet med kodeord. Skriv kodeordet for at se eventuelle "
+"kommentarer."
+
+#: comments.php:21
+msgid "Reply"
+msgstr "Svar"
+
+#: comments.php:30
+msgid "Posted on"
+msgstr "Udgivet i"
+
+#: comments.php:33
+msgid "Edit"
+msgstr "Rediger"
+
+#: comments.php:36
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse."
+
+#: comments.php:55
+msgid "No comments so far"
+msgstr "Ingen kommentarer indtil videre."
+
+#: comments.php:55
+msgid "1 comment so far"
+msgstr "Én kommentar indtil videre"
+
+#: comments.php:55
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: comments.php:63
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#: comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Ældre kommentarer"
+
+#: comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:70 comments.php:116
+msgid "Comments are closed."
+msgstr "Lukket for kommentarer."
+
+#: comments.php:82
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:83
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:95
+msgid "Message"
+msgstr "Besked"
+
+#: comments.php:96
+msgid "Logged in as"
+msgstr "Logget ind som"
+
+#: comments.php:96
+msgid "Logout of this account"
+msgstr "Log ud af denne konto"
+
+#: comments.php:96
+msgid "Log out"
+msgstr "Log ud"
+
+#: comments.php:98
+msgid "Send Message"
+msgstr "Send besked"
+
+#: comments.php:102
+msgid "Leave a Reply"
+msgstr "Skriv et svar"
+
+#: content-page.php:36 content.php:34
+#: functions/customizer/customizer_general_settings.php:305
+#: functions/template-tags.php:178 index-news.php:60
+#: template/template-page-full-width.php:28
+msgid "Read More"
+msgstr "Læs mere "
+
+#: footer.php:5 functions/customizer/customizer_general_settings.php:274
+msgid ""
+"<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: "
+"<a href=\"https://spicethemes.com\" rel=\"designer\">SpicePress</a> by "
+"SpiceThemes"
+msgstr ""
+
+#: functions.php:65
+msgid "Page"
+msgstr "Side"
+
+#: functions.php:114
+msgid "Primary Menu"
+msgstr "Primær menu"
+
+#: functions/breadcrumbs/breadcrumbs.php:52
+#: functions/breadcrumbs/breadcrumbs.php:55
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Forside"
+
+#: functions/breadcrumbs/breadcrumbs.php:58
+msgid "Archive by category"
+msgstr "Kategoriarkiv"
+
+#: functions/breadcrumbs/breadcrumbs.php:62
+#: functions/breadcrumbs/breadcrumbs.php:63
+#: functions/breadcrumbs/breadcrumbs.php:68
+#: functions/breadcrumbs/breadcrumbs.php:73
+msgid "Y"
+msgstr "Y"
+
+#: functions/breadcrumbs/breadcrumbs.php:63
+msgid "m"
+msgstr "m"
+
+#: functions/breadcrumbs/breadcrumbs.php:63
+#: functions/breadcrumbs/breadcrumbs.php:69
+msgid "F"
+msgstr "F"
+
+#: functions/breadcrumbs/breadcrumbs.php:64
+msgid "d"
+msgstr "d"
+
+#: functions/breadcrumbs/breadcrumbs.php:108
+msgid "Error 404"
+msgstr "Fejl 404 "
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Tilføj nyt felt"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Tilpasser duplikator"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:256
+#: functions/customizer-repeater/class/customizer-repeater-control.php:405
+#: functions/customizer/customizer_sections_settings.php:52
+msgid "Title"
+msgstr "Titel"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:263
+#: functions/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr "Undertitel"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:270
+#: functions/customizer-repeater/class/customizer-repeater-control.php:419
+#: functions/customizer/customizer_sections_settings.php:64
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:279
+#: functions/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Text"
+msgstr "Knaptekst"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:290
+#: functions/customizer-repeater/class/customizer-repeater-control.php:437
+#: functions/customizer-repeater/class/customizer-repeater-control.php:626
+#: functions/customizer-repeater/class/customizer-repeater-control.php:648
+msgid "Link"
+msgstr "Link"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:309
+#: functions/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr "Video-URL"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:333
+#: functions/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr "Farve"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:343
+#: functions/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr "Kortkode"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:351
+#: functions/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr "Udpegning"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:367
+#: functions/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr "Slet felt"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:523
+msgid "Open link in new tab:"
+msgstr "Åbn link i et nyt faneblad"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:534
+#: functions/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Icon"
+msgstr "Ikon"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:539
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+"Bemærk: Nogle ikoner bliver måske ikke vist her. Du kan se den komplette "
+"liste med ikoner på %1$s."
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:557
+#: functions/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "Image"
+msgstr "Billede"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:560
+msgid "Upload Image"
+msgstr "Upload billede"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:569
+msgid "Slide Format"
+msgstr "Sliderformat"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:573
+msgid "Standard"
+msgstr "Standard"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:577
+msgid "Aside"
+msgstr "Sidebemærkning"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:581
+msgid "Quote"
+msgstr "Citat"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:589
+msgid "Video"
+msgstr "Video"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:599
+msgid "Image type"
+msgstr "Billedtype"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "None"
+msgstr "Ingen"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:612
+msgid "Social icons"
+msgstr "Sociale ikoner"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:629
+#: functions/customizer-repeater/class/customizer-repeater-control.php:659
+msgid "Remove Icon"
+msgstr "Fjern ikon"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:634
+#: functions/customizer-repeater/class/customizer-repeater-control.php:667
+msgid "Add Icon"
+msgstr "Tilføj ikon"
+
+#: functions/customizer/customizer-pro.php:12
+msgid "UPGRADE TO PRO"
+msgstr "OPGRADER TIL PRO"
+
+#: functions/customizer/customizer-pro.php:19
+msgid "Upgrade to Pro"
+msgstr "Opgrader til Pro"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:5
+msgid "Archive page title"
+msgstr ""
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:14
+#: functions/customizer/customizer_bredcrumbs_settings.php:20
+#: functions/template-tags.php:93
+#, fuzzy
+#| msgid "Tag Archive"
+msgid "Archive"
+msgstr "Tag-arkiv"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:28
+#: functions/customizer/customizer_bredcrumbs_settings.php:34
+#: functions/template-tags.php:111
+#, fuzzy
+#| msgid "Category Archive"
+msgid "Category"
+msgstr "Kategoriarkiv"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:42
+#: functions/template-tags.php:117
+msgid "All posts by"
+msgstr "Alle indlæg af"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:48
+msgid "Author"
+msgstr ""
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:56
+#: functions/customizer/customizer_bredcrumbs_settings.php:62
+#: functions/template-tags.php:36 functions/template-tags.php:123
+msgid "Tag"
+msgstr "Tag"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:71
+#: functions/template-tags.php:143
+msgid "Search results for"
+msgstr "Søg efter resultater for"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:77 searchform.php:4
+#, fuzzy
+#| msgid "Search here"
+msgid "Search"
+msgstr "Søg her"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:85
+#: functions/customizer/customizer_bredcrumbs_settings.php:91
+#: functions/template-tags.php:153
+msgid "404"
+msgstr ""
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:100
+#: functions/customizer/customizer_bredcrumbs_settings.php:106
+#: functions/template-tags.php:129
+msgid "Shop"
+msgstr ""
+
+#: functions/customizer/customizer_general_settings.php:153
+msgid "General settings"
+msgstr "Generelle indstillinger"
+
+#: functions/customizer/customizer_general_settings.php:159
+#, fuzzy
+#| msgid "Header Text"
+msgid "Header layout"
+msgstr "Header-tekst"
+
+#: functions/customizer/customizer_general_settings.php:175
+msgid "Header layout with logo placing"
+msgstr ""
+
+#: functions/customizer/customizer_general_settings.php:196
+#, fuzzy
+#| msgid "General settings"
+msgid "Menu breakpoint settings"
+msgstr "Generelle indstillinger"
+
+#: functions/customizer/customizer_general_settings.php:211
+msgid "Menu breakpoint"
+msgstr ""
+
+#: functions/customizer/customizer_general_settings.php:212
+msgid "Enter the Min. Size 200px and Max Size 6000px"
+msgstr ""
+
+#: functions/customizer/customizer_general_settings.php:234
+#, fuzzy
+#| msgid "Homepage section settings"
+msgid "Animation Settings"
+msgstr "Forsidesektion indstillinger"
+
+#: functions/customizer/customizer_general_settings.php:246
+#, fuzzy
+#| msgid "Remove animation effects from entire site"
+msgid "Disable animation effect in desktop"
+msgstr "Fjern animationseffekter fra hele webstedet"
+
+#: functions/customizer/customizer_general_settings.php:258
+#, fuzzy
+#| msgid "Remove animation effects from entire site"
+msgid "Disable animation effect on mobile devices"
+msgstr "Fjern animationseffekter fra hele webstedet"
+
+#: functions/customizer/customizer_general_settings.php:266
+msgid "Footer copyright settings"
+msgstr "Copyright-indstillinger i sidefoden"
+
+#: functions/customizer/customizer_general_settings.php:281
+msgid "Copyright text"
+msgstr "Copyright tekst"
+
+#: functions/customizer/customizer_general_settings.php:289
+#, fuzzy
+#| msgid "Layout Options"
+msgid "More Options"
+msgstr "Layout muligheder"
+
+#: functions/customizer/customizer_general_settings.php:302
+msgid "More options available for Header in SpicePress Pro"
+msgstr ""
+
+#: functions/customizer/customizer_header_image.php:7
+msgid "Custom header settings"
+msgstr "Egne sidehovedindstillinger"
+
+#: functions/customizer/customizer_header_image.php:16
+msgid "Header Headline"
+msgstr "Sidehoved overskrift"
+
+#: functions/customizer/customizer_header_image.php:28
+msgid "Header Text"
+msgstr "Header-tekst"
+
+#: functions/customizer/customizer_recommended_plugin.php:12
+#, php-format
+msgid ""
+"Install and activate %s plugin for taking full advantage of all the features "
+"this theme has to offer."
+msgstr ""
+
+#: functions/customizer/customizer_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr "Anbefalede plugin"
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr "Installer og aktiver"
+
+#: functions/customizer/customizer_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: functions/customizer/customizer_sections_settings.php:21
+msgid "Homepage section settings"
+msgstr "Forsidesektion indstillinger"
+
+#: functions/customizer/customizer_sections_settings.php:26
+msgid "Latest News settings"
+msgstr "Seneste nyt indstillinger"
+
+#: functions/customizer/customizer_sections_settings.php:35
+msgid "Enable Home News section"
+msgstr "Aktiver forside nyhedssektion"
+
+#: functions/customizer/customizer_sections_settings.php:39
+msgid "ON"
+msgstr "TÆNDT"
+
+#: functions/customizer/customizer_sections_settings.php:40
+msgid "OFF"
+msgstr "SLUKKET"
+
+#: functions/customizer/customizer_sections_settings.php:47 index-news.php:10
+msgid "Latest News"
+msgstr "Seneste nyheder"
+
+#: functions/customizer/customizer_sections_settings.php:82
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr ""
+"Aktiver indlæggets metaværdier, såsom forfatternavn, dato, kommentarer osv."
+
+#: functions/template-tags.php:26
+msgid "By"
+msgstr "Af"
+
+#: functions/template-tags.php:32
+msgid "in"
+msgstr "i"
+
+#: functions/template-tags.php:99 functions/template-tags.php:103
+#: functions/template-tags.php:107 functions/template-tags.php:113
+#: functions/template-tags.php:119 functions/template-tags.php:125
+#: functions/template-tags.php:131 functions/template-tags.php:147
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: functions/template-tags.php:157
+#, php-format
+msgid "%1$s "
+msgstr "%1$s"
+
+#: functions/template-tags.php:187
+msgid "previous page"
+msgstr "Forrige side"
+
+#: functions/template-tags.php:187
+msgid "next page"
+msgstr "Næste side"
+
+#: functions/widgets/sidebars.php:8 functions/widgets/sidebars.php:10
+msgid "Sidebar widget area"
+msgstr "Sidebar widgetområde"
+
+#: functions/widgets/sidebars.php:18 functions/widgets/sidebars.php:20
+msgid "Footer widget left area"
+msgstr "Sidefod venstre widget-område"
+
+#: functions/widgets/sidebars.php:28 functions/widgets/sidebars.php:30
+msgid "Footer widget central area"
+msgstr "Sidefod midterste widget-område"
+
+#: functions/widgets/sidebars.php:38 functions/widgets/sidebars.php:40
+msgid "Footer widget right area"
+msgstr "Sidefod højre widget-område"
+
+#: functions/widgets/sidebars.php:50 functions/widgets/sidebars.php:52
+msgid "WooCommerce sidebar widget area"
+msgstr "WooCommerce sidebar widgetområde"
+
+#: functions/widgets/sidebars.php:61 functions/widgets/sidebars.php:63
+msgid "Contact template sidebar"
+msgstr ""
+
+#: header/header-navbar.php:55 header/header-navbar.php:66
+#: header/header-navbar.php:101 header/header-navbar.php:150
+msgid "Toggle navigation"
+msgstr "Skift navigation"
+
+#: search.php:28
+msgid "Nothing found"
+msgstr "Intet fundet"
+
+#: search.php:29
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Beklager, men din søgning gav ingen resultater. Prøv igen med nogle andre "
+"søgeord."
+
+#: searchform.php:3
+msgid "Search here"
+msgstr "Søg her"
+
+#~ msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+#~ msgstr ""
+#~ "Du skal være <a href=\"%s\">logget ind</a> for at skrive en kommentar."
+
+#~ msgid "Copyright © 2018 SpiceThemes. All right reserved"
+#~ msgstr "Copyright © 2018 SpiceThemes. Alle rettigheder forbeholdes"
+
+#~ msgid "Remove animation"
+#~ msgstr "Fjern animation"
+
+#~ msgid "Typography Settings"
+#~ msgstr "Skrifttypeindstillinger"
+
+#~ msgid "You can customize the style without adding any code."
+#~ msgstr "Tilpas stilen uden at tilføje noget kode."
+
+#~ msgid "Why Upgrade to PRO?"
+#~ msgstr "Hvorfor opgradere til Pro?"
+
+#~ msgid "Site Layout"
+#~ msgstr "Websted layout"
+
+#~ msgid ""
+#~ "SpicePress comes with two types of layout: a boxed one and a full-width "
+#~ "layout. You can easily switch between them in Appearance > Customize."
+#~ msgstr ""
+#~ "SpicePress er født med to typer layout: et boks layout og et fuld bredde "
+#~ "layout. Du kan nemt skifte mellem dem i Udseende > Tilpas."
+
+#~ msgid "Top Header Section"
+#~ msgstr "Top sidehoved sektion"
+
+#~ msgid ""
+#~ "You can customize your header section. There are Contact info detail and "
+#~ "social media icons features in Header Top section."
+#~ msgstr ""
+#~ "Du kan tilpasse din sidehoved sektion. Der er kontaktoplysninger og "
+#~ "social medie ikoner muligheder i top sektionen af sidehovedet."
+
+#~ msgid "Multi Level Navigation"
+#~ msgstr "Navigation i flere niveauer"
+
+#~ msgid ""
+#~ "There are beautifully styled navigation/menus in SpicePress. You can "
+#~ "create sub menus and make multi level menus."
+#~ msgstr ""
+#~ "Der er smukt formgivede navigation/menuer i SpicePress. Du kan oprette "
+#~ "undermenuer og lave menuer i flere niveauer."
+
+#~ msgid "Caption Slider"
+#~ msgstr "Billedtekst til slider"
+
+#~ msgid ""
+#~ "You can create unlimited sliders, which can be controlled by the settings "
+#~ "in Appearance > Customize."
+#~ msgstr ""
+#~ "Du kan oprette ubegrænsede slidere, som du kan styre via indstillingerne "
+#~ "der er under Udseende > Tilpas."
+
+#~ msgid "Service Features"
+#~ msgstr "Tjeneste funktioner"
+
+#~ msgid ""
+#~ "You can display any number of services on the Homepage, with thousands of "
+#~ "Font Awesome icons available. You can also display a set of services on a "
+#~ "separate page by using the Service page template."
+#~ msgstr ""
+#~ "Du kan vise et ubegrænset antal tjenester på forsiden med tusindvis af "
+#~ "FontAwesome ikoner til rådighed. Du kan også vise et sæt tjenester på en "
+#~ "side for sig selv, ved at bruge tjeneste sideskabelonen."
+
+#~ msgid "Portfolio Features"
+#~ msgstr "Portefølje muligheder"
+
+#~ msgid ""
+#~ "Showcase any number of projects. This theme provides you with an option "
+#~ "to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 "
+#~ "column layout templates, respectively. If you have a number of projects "
+#~ "to present then these templates are the answer. You can also create "
+#~ "categorized portfolios, which display all the portfolio categories in a "
+#~ "single place. In fact, we have coded this theme so that you can create "
+#~ "any number of different portfolios."
+#~ msgstr ""
+#~ "Fremvis et ubegrænset antal projekter. Dette tema giver dig mulighed for "
+#~ "at oprette 2, 3, 4 kolonne gitter layouts ved at bruge henholdsvis "
+#~ "portefølje 2, 3, 4 kolonne skabelonerne. Hvis du har nogle projekter at "
+#~ "fremvise, så er disse skabeloner svaret. Du kan også oprette porteføljer "
+#~ "i kategorier, hvilken viser porteføljerne et samlet sted. Faktisk har vi "
+#~ "kodet temaet således, at du kan oprette et ubegrænset antal porteføljer.."
+
+#~ msgid "Latest News Section"
+#~ msgstr "Seneste nyt sektion"
+
+#~ msgid ""
+#~ "This section is often used to display Latest News, Announcements and "
+#~ "Events type content."
+#~ msgstr ""
+#~ "Denne sektion bruges ofte til at vise Seneste nyt, meddelelser, "
+#~ "begivenheder og den type indhold."
+
+#~ msgid "Testimonial Feature"
+#~ msgstr "Anbefalinger funktion"
+
+#~ msgid ""
+#~ "Testimonials are a powerful way to gain credibility. You can display "
+#~ "testimonials with a carousel effect."
+#~ msgstr ""
+#~ "Anbefalinger er en effektiv måde at skabe troværdighed på. Du kan vise "
+#~ "anbefalinger med en karruselfunktion."
+
+#~ msgid ""
+#~ "SpicePress comes with 7 preset color schemes and you can also create your "
+#~ "own palettes using the Custom Color Setting in the Customizer."
+#~ msgstr ""
+#~ "SpicePress er født med 7 foruddefinerede farveskemaer og du kan skabe dit "
+#~ "eget farveskema ved at bruge Brugerdefineret farveindstilling i "
+#~ "Tilpasseren."
+
+#~ msgid "Well Documented"
+#~ msgstr "Udførligt dokumenteret"
+
+#~ msgid ""
+#~ "We provide good knowledgebase articles which will help you to create "
+#~ "effective websites. You can visit these articles via our  "
+#~ msgstr ""
+#~ "Vi tilbyder gode vidensbase artikler som vil hjælpe dig til at skabe "
+#~ "effektive websteder. Du kan finde disse artikler i vores"
+
+#~ msgid "Help Section"
+#~ msgstr "Hjælp sektion"
+
+#~ msgid "Custom widget "
+#~ msgstr "Brugerdefineret widget"
+
+#~ msgid ""
+#~ "Building a website with our custom widgets is very simple. Just place "
+#~ "them inside the available sidebar or even in the content."
+#~ msgstr ""
+#~ "At opbygge et websted med vores brugerdefinerede widgets er meget enkelt. "
+#~ "Bare placer dem i den tilgængelige sidebar eller endda i selve indholdet."
+
+#~ msgid "Translation Ready"
+#~ msgstr "Parat til oversættelse"
+
+#~ msgid ""
+#~ "The theme supports yet another famous plugin: WPML. With the help of this "
+#~ "support you can create a website available in multiple languages."
+#~ msgstr ""
+#~ "Temaet understøtter endnu et kendt plugin: WPML. Med hjælp fra denne "
+#~ "support kan du skabe et websted, der er tilgængeligt i flere sprog."
+
+#~ msgid "Hooray! There are no required actions for you right now."
+#~ msgstr "Hurra! Der kræves ingen handlinger fra din side lige nu."
+
+#~ msgid "Error 404: Page Not Found"
+#~ msgstr "Fejl 404: Siden blev ikke fundet"
+
+#~ msgid "https://spicethemes.com/spicepress-wordpress-theme/"
+#~ msgstr "https://spicethemes.com/spicepress-wordpress-theme/"
+
+#~ msgid ""
+#~ "SpicePress is a responsive and fully customizable business template. The "
+#~ "advanced admin panel will enable you to personalize the theme without any "
+#~ "technical information. SpicePress offers 7 predefined color schemes as "
+#~ "well as the opportunity to customize the existing graphics to create your "
+#~ "own unique website interface."
+#~ msgstr ""
+#~ "SpicePress er et responsivt og en fuldstændig tilpasningsmulig "
+#~ "virksomhedsskabelon. Det avancerede adminstrationspanel vil give dig "
+#~ "mulighed for at tilpasse temaet uden nogen form for teknisk indsigt. "
+#~ "SpicePress tilbyder seks foruddefinerede farveskemaer såvel som "
+#~ "muligheden for at tilpasse det medfølgende grafik, så du kan skabe din "
+#~ "egen, unikke grænseflade på dit websted."
+
+#~ msgid "spicethemes.com"
+#~ msgstr "spicethemes.com"
+
+#~ msgid "https://spicethemes.com"
+#~ msgstr "https://spicethemes.com"
+
+#~ msgid "Business Template"
+#~ msgstr "Virksomhedsskabelon"
+
+#~ msgid "Full-width page"
+#~ msgstr "Fuld bredde side"

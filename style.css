@@ -1,0 +1,562 @@
+
+
+*{
+	/*background: lightblue*/
+}
+
+.hero-unit-small{
+	background-color: #DB2723
+}
+.container{
+	/*position: fixed;*/
+
+}
+
+.container1::after{
+	content: '';
+}
+.ajax_button,.ajax_ok{
+	cursor: pointer;
+}
+.modal-body label{
+	font-size: 18px
+}
+
+.vce-vim-video-player,.vce-vim-video-player--align-center,.vce-vim-video-player--size-640x360
+{
+		position: relative;
+	    top: -85px;
+}
+.vce-col-inner{
+	width: 100%
+}
+
+/*timer*/
+
+#main_countedown_1 .time_left {
+    border-radius: 8px;
+    /*background-color: #3DA8CC;*/
+    font-size: 23px;
+    font-family: monospace;
+    color: #fff;
+}
+.time_description{
+	color: #fff
+}
+.countdown{
+	color: #fff
+}
+.ABOUT_THE_PHOENIX{
+	height: 400px; 
+	position: relative;
+    top: -400px;
+    opacity: 0.9;
+}
+.watch_match:hover{
+	/*background: #212121	*/
+}
+.ABOUT_THE_PHOENIX_child{
+	width: 100%;
+	height: 400px;
+	/*background: red;*/
+	background-image: url("http://localhost/wordpress/wp-content/uploads/bg_2.jpg");
+	/*opacity: 0.5;*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0 auto;
+
+}
+.nigaa{
+	width: 50%;
+	height: 500px;
+	background-image: url("http://localhost/wordpress/wp-content/uploads/about.jpg");
+	/*opacity: 0.5;*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+    float: right;
+    top: -1065px;
+}
+.text1{
+	width: 400px;
+	/*background: white;*/
+	height: 200px;
+	/*float: left;*/
+	position: relative;
+    top: -6029px;
+    left: 138px;
+	/*opacity: 0.5;*/
+	padding: 10px;
+	font-weight: bold;
+	color: #fff;
+}
+.watch_game{
+	    width: 150px;
+    height: 60px;
+	background: #1F7DFE;
+	color: white;
+	border: none;
+	transition: 0.5s
+}
+.watch_game:hover{
+	background: #000
+}
+.div1{
+	width: 100px;
+	height: 100px;
+	background: pink
+}
+.eresunyot{
+    height: 500px;
+    /*margin-left: 240px;	*/
+}
+.eresunyot:after {
+    width: 100%
+    content: "";
+    /*display: block;*/
+    /*background: url(separador.png) center center no-repeat;*/
+    background: red;
+    height: 29px;
+}
+/*.eresunyot_vra{
+	position: relative;
+	top: 100px;
+}*/
+.eresunyot_2{
+	position: relative;
+    height: 500px;
+	top: -530px;
+	opacity: 0.85;
+}
+
+.BASEBALL_text:before{
+    content: "\f100";
+}
+.HAPPY_VIEWERS{
+	height: 500px
+}
+.input_subscribe{
+	width: 550px;
+	height: 70px;
+	margin-left: 200px;
+	padding: 5px
+}
+.button_subscribe{
+	width: 126px;
+    height: 70px;
+    background: #00BC55;
+    border: none;
+}
+.footer{
+width: 100%;
+height: 600px;
+background: #000
+}
+.days,.hourse,.minutes,.secondes{
+	font-size: 50px;
+	font-weight: bold;
+}
+.countdown{
+	color: #fff
+}
+.niggaa{
+	    width: 438px;
+    height: 500px;
+    position: relative;
+    top: -850px;
+    left: 673px;
+    background-image: url("http://localhost/wordpress/wp-content/uploads/about-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.user_name,.user_surname,.user_email,.user_age{
+	    width: 30%;
+}
+/*----------------------------------------------------------------------------------------------*/
+/*----------------------------------------------------calendar----------------------------------*/
+/*----------------------------------------------------------------------------------------------*/
+body {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 400;
+}
+
+h3,h4,h5 {
+   font-weight: 300 !important;
+}
+
+.calendar-wrapper {
+   height: auto;
+   max-width: 730px;
+   margin: 0 auto;
+}
+
+.calendar-header {
+   background-color: rgba(18, 15, 25, 0.25);
+   height: 100%;
+   padding: 20px;
+   color: #fff;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   position: relative;
+}
+
+.header-title {
+   padding-left: 15%;
+}
+
+.header-background {
+   background-image: url("https://raw.githubusercontent.com/JustMonk/codepen-resource-project/master/img/compressed-header.jpg");
+   height: 200px;
+   background-position: center right;
+   background-size: cover;
+}
+
+.calendar-content {
+   background-color: #fff;
+   padding: 20px;
+   padding-left: 15%;
+   padding-right: 15%;
+   overflow: hidden;
+}
+
+.event-mark {
+   width: 5px;
+   height: 5px;
+   background-color: teal;
+   border-radius: 100px;
+   position: absolute;
+   left: 46%;
+   top: 70%;
+}
+
+.calendar-footer {
+   height: 200px;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   text-align: center;
+   background-color: #4b6289 !important;
+   position: relative;
+   overflow: hidden;
+}
+
+.addForm {
+   position: absolute;
+   top: 100%;
+   width: 100%;
+   height: 100%;
+   background-color: lightblue !important;
+   transition: top 0.5s cubic-bezier(1, 0, 0, 1);
+   padding: 0 5px 0 5px;
+}
+
+
+
+.addForm .row {
+   padding-left: 0.75rem;
+   padding-right: 0.75rem;
+   margin-bottom: 0;
+}
+
+.addForm h4 {
+   color: #fff;
+   margin-bottom: 1rem;
+}
+
+.addEventButtons {
+   text-align: right;
+   padding: 0 0.75rem 0 0.75rem;
+}
+#addEventButton,#cancelAdd{
+   background: #64B5F6
+}
+.addEventButtons a {
+   color: black;
+   font-weight: 300;
+}
+
+.emptyForm {
+   padding: 20px;
+   padding-left: 15%;
+   padding-right: 15%;
+}
+
+.emptyForm h4 {
+   color: #fff;
+   margin-bottom: 2rem;
+}
+
+.sidebar-wrapper {
+   color: #fff;
+   background-color: #5a649c !important;
+   padding-top: 0;
+   padding-bottom: 20px;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   padding-left: 0;
+   padding-right: 0;
+}
+
+.sidebar-title {
+   padding: 50px 6% 50px 12%;
+}
+
+.sidebar-title h4 {
+   margin-top: 0;
+}
+
+.sidebar-events {
+   overflow-x: hidden;
+   overflow-y: hidden;
+   margin-bottom: 70px;
+}
+
+.empty-message {
+   font-size: 1.2rem;
+   padding: 15px 6% 15px 12%;
+}
+
+.eventCard {
+   background-color: #fff;
+   color: black;
+   padding: 12px 24px 12px 24px;
+   border-bottom: 1px solid #E5E5E5;
+   white-space: nowrap;
+   position: relative;
+   animation: slideInDown 0.5s;
+}
+
+.eventCard-header {
+   font-weight: bold;
+}
+
+.eventCard-description {
+   color: grey;
+}
+
+.eventCard-mark-wrapper {
+   position: absolute;
+   right: 0;
+   top: 0;
+   height: 100%;
+   width: 60px;
+   background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 25%, rgba(255, 255, 255, 1) 100%);
+}
+
+.eventCard-mark {
+   width: 8px;
+   height: 8px;
+   background-color: #b39ddb;
+   border-radius: 100px;
+   position: absolute;
+   left: 50%;
+   top: 45%;
+}
+
+.day-mark {
+   width: 7px;
+   height: 7px;
+   background-color: #b39ddb;
+   border-radius: 100px;
+   position: absolute;
+   left: 47%;
+   top: 67%;
+}
+
+.content-wrapper {
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+}
+
+#table-body .col:hover {
+   cursor: pointer;
+   /*border: 1px solid grey;*/
+   background-color: #E0E0E0;
+}
+
+.empty-day:hover {
+   cursor: default !important;
+   background-color: #fff !important;
+}
+
+#table-body .row .col {
+   padding: .75rem;
+}
+
+#table-body .col {
+   border: 1px solid transparent;
+}
+
+#table-body {}
+
+#table-body .row {
+   margin-bottom: 0;
+}
+
+#table-body .col {
+   padding-top: 1.3rem !important;
+   padding-bottom: 1.3rem !important;
+}
+
+#calendar-table {
+   text-align: center;
+}
+
+.prev-button {
+   position: absolute;
+   cursor: pointer;
+   left: 0%;
+   top: 35%;
+   color: grey !important;
+}
+
+.prev-button i {
+   font-size: 4em;
+}
+
+.next-button {
+   position: absolute;
+   cursor: pointer;
+   right: 0%;
+   top: 35%;
+   color: grey !important;
+}
+
+.next-button i {
+   font-size: 4em;
+}
+
+.addEvent {
+   box-shadow: 0 5px 15px rgb(57, 168, 228);
+   background-color: #39a8e4;
+   padding: 10px;
+   padding-left: 3em;
+   padding-right: 3em;
+   cursor: pointer;
+   border-radius: 25px;
+   color: #fff !important;
+   background-image: linear-gradient(135deg, #8d8dd4, #45ced4);
+}
+
+.addEvent:hover {
+   transition: box-shadow 0.5s;
+   box-shadow: 0 4px 25px rgb(57, 168, 228);
+}
+
+.mobile-header {
+   padding: 0;
+   display: none;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   position: fixed;
+   z-index: 99;
+   width: 100%;
+   background-color: #5a649c !important;
+}
+
+.mobile-header a i {
+   color: #fff;
+   font-size: 38px;
+}
+
+.mobile-header h4 {
+   color: #fff;
+}
+
+.mobile-header .row {
+   margin-bottom: 0;
+}
+
+.mobile-header h4 {
+   margin: 0;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+}
+
+@media (max-width:992px) {
+   .content-wrapper {
+      margin-left: 0;
+   }
+   .mobile-header {
+      display: block;
+   }
+   .calendar-wrapper {
+      margin-top: 80px;
+   }
+   .sidebar-wrapper {
+      background-color: #EEEEEE !important;
+   }
+   .sidebar-title {
+      background-color: #5A649C !important;
+   }
+   .empty-message {
+      color: black;
+   }
+}
+
+@media (max-width:767px) {
+   .content-wrapper .container {
+      width: auto;
+   }
+   .calendar-content {
+      padding-left: 5%;
+      padding-right: 5%;
+   }
+   body .row {
+      margin-bottom: 0;
+   }
+}
+
+@media (max-width:450px) {
+   .content-wrapper {
+      padding-left: 0;
+      padding-right: 0;
+   }
+   .content-wrapper .container {
+      padding-left: 0;
+      padding-right: 0;
+   }
+}
+
+/*------charts------------*/
+
+
+
+  .chart-container {
+        width: 800px;
+        height: auto;
+        margin: 0 auto
+      }
+
+#eventTitleInput{
+    margin-left: 64px;
+    }
+
+     .chart-container {
+        width: 1000px;
+        height: auto;
+      }
+
+
+       html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+ 
+        #myChart {
+            height: 100%;
+            width: 100%;
+            min-height: 150px;
+        }
+ 
+        .zc-ref {
+            display: none;
+        }
+ 
+        zing-grid[loading] {
+            height: 500px;
+        }
